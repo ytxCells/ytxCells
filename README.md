@@ -7,9 +7,9 @@
 
   <!-- knock code pictures 敲代码的图片 -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/ytxCells/ytxCells/assets/images/coding.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/ytxCells/ytxCells/assets/images/developer.svg" height="225px" />
-    <img src="https://cdn.jsdelivr.net/gh/ytxCells/ytxCells/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/ytxCells/ytxCells/assets/images/shin_chan.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/ytxCells/ytxCells/assets/images/top_img.gif" height="225px" />
+    <img src="https://cdn.jsdelivr.net/gh/ytxCells/ytxCells/assets/images/shin_chan.gif" />
   </picture>
 
   <!-- for beauty 留个空行好看点 -->
